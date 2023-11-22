@@ -1,0 +1,19 @@
+iDevice Class                                 iPhone X
+SN matching memory                            64GB
+Serial Number                                 FK1X1D2FJCLF
+Model                                         MQA52
+Production Date                               7/8/2018
+Region                                        CH/A
+System version                                16.7
+Color                                         Space Gray
+Motherboard SN(MLB)                           F3X827204PEJ3QLC
+Bluetooth Address(BMAC)                       B8:41:A4:CB:C1:4D
+WiFi Address(WMAC)                            B8:41:A4:D3:9A:10
+Battery SN(Batt)                              F5D80522Y2QHXRRAA
+LCD SN(LCM)                                   -
+Back Camera SN(BCMS)                          DNL82441E0JH8MG2L
+Front Camera SN(FCMS)                         G8R7366C158HNXM42
+Cover Board SN(MtSN)                          FX973942QS6J6DX9Z+03917144836159075737797743
+Fingerprint SN(NvSN)                          -
+Fingerprint Number(NSrN)                      -
+Vibration                                     CTH8045DGQPJ090AW+XMAFM1
